@@ -19,7 +19,6 @@ begin
   textcolor(green); write('[6] '); textcolor(white); write('Объем и площадь усеченного конуса');  writeln;
   writeln; writeln; textcolor(red); write('[x] '); textcolor(white); write('Выйти');  writeln;
 
-
   cmd:=readkey;
 
   if cmd='1' then
