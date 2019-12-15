@@ -181,7 +181,6 @@ begin
         else exit;
       end;
 
-
     if cmd='x' then exit;
   end;
 end.
