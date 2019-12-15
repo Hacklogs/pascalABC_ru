@@ -123,7 +123,7 @@ begin
       writeln('Образующая(L) усеченного конуса равна ', I:8:2);
       writeln();
       readkey;
-    end.
+    end;
 
 
   if cmd='x' then exit;
